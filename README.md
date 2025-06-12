@@ -31,7 +31,7 @@ CAR-PARK-DETECTION-V1/
     
     ```bash
     git clone <repo-url>
-    cd CAR-PARK-DETECTION-V1
+    cd car-park-detection-v1
     pip install -r requirements.txt
     
     ```
